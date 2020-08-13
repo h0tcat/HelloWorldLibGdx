@@ -1,0 +1,2 @@
+# HelloWorldLibGdx
+javaでゲームを作るのに便利なライブラリLibgdxを使ったサンプルプログラムです
